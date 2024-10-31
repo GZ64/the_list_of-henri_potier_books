@@ -1,0 +1,31 @@
+input::placeholder {
+    color: #deddff;
+    opacity: 1; /* Firefox */
+    font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+    font-size: 1rem;
+}
+#react-autowhatever-1 {
+    position: absolute;
+    right: 0;
+    width: 200%;
+    background-color: #7F74CB;
+    z-index: 1;
+}
+
+#react-autowhatever-1 ul li {
+    list-style-type: none;
+    padding: 10px;
+}
+#react-autowhatever-1 ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+#react-autowhatever-1 ul li:not(:last-child) {
+    border-bottom :1px solid #bdbdbd;
+}
+
+#react-autowhatever-1 ul {
+    margin: 0;
+    padding: 0;
+}
